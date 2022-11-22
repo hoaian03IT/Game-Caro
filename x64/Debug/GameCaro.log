@@ -1,0 +1,5 @@
+﻿  Game.cpp
+D:\OOP\GameCaro\Header.h(31,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\OOP\GameCaro\Header.h(31,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\OOP\GameCaro\Game.cpp(28,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameCaro.vcxproj -> D:\OOP\GameCaro\x64\Debug\GameCaro.exe
